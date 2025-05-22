@@ -19,6 +19,8 @@ social
 ## Registration 
 Please register to join us at the Durham HPC Days 2025 [here](https://pay.durham.ac.uk/event-durham/durham-hpc-days-2025). We hope to see you there!
 
+Join us from wherever you are! Register [here](https://www.canva.com/design/DAGoFjE29xE/L3GYz3LL3ZLcomD9ArYXig/view) to attend the conference online and take part in the sessions that interest you.
+
 Please make sure you [book somewhere to stay](hotels.md)
 
 ## Programme
